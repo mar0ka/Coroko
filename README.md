@@ -37,4 +37,24 @@ Build an all-in-one iOS customization workspace with a modern interface and clea
 
 ⸻
 
-Made with curiosity and a love for customization.
+Made with curiosity and a love for customization.Coroko v0.1.0 — First Preview
+
+What’s included
+
+* Modern glass-inspired interface
+* Theme editor and PNG import
+* Wallet theme preparation
+* Device connection diagnostics
+* Local theme package export
+
+Important
+
+This is an early preview. Direct theme installation on iOS is not yet implemented. Compatibility and functionality may be limited.
+
+Installation
+
+1. Download Coroko-Windows.zip.
+2. Extract the archive.
+3. Follow the included setup instructions.
+
+Supported platform: Windows
