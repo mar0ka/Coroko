@@ -3,7 +3,7 @@ Coroko
 
 A modern iOS customization toolkit for Windows.
 
-Coroko is an experimental project inspired by tools like Cowabunga and Nugget. It aims to provide a clean, glass-inspired interface for managing iOS customization projects.
+Coroko is an experimental project. It aims to provide a clean, glass-inspired interface for managing iOS customization projects.
 
 ✨ Features
 
