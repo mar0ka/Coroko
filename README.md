@@ -10,9 +10,6 @@ Coroko is an experimental project. It aims to provide a clean, glass-inspired in
 * Modern UI — a dark interface inspired by the glass design language of iOS 26.
 * Theme Library — import and organize theme assets.
 * Passcode Studio — preview and prepare passcode theme files.
-* Wallet Studio — customize card artwork and colors.
-* Device Manager — check iPhone and iPad USB connectivity.
-* Local Backups — save theme settings and project assets.
 * Console — view diagnostic logs and operation status.
 
 🚧 Development Status
